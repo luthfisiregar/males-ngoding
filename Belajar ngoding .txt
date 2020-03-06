@@ -3,4 +3,4 @@ Tentang Coding
 -kita akan mampu menjadi for end dan beck end
 -kalo kita bisa jadi programer kita bisa disebut jadi full stack
 -bekerja team dalam pemerograman web itu adalah pentinh
--suskes dalam full stack
+-hapus kata kata 
